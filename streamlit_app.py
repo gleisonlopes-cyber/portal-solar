@@ -86,4 +86,4 @@ if calcular or 'dados_carregados' not in st.session_state:
                 st.pyplot(fig2)
                 
         except Exception as e:
-            st.error(f"Erro ao buscar os dados. Verifique se o intervalo de datas é válido. Detalhe técnico: {e}")atualizando portalatualizando portal
+            st.error(f"Erro ao buscar os dados. Verifique se o intervalo de datas é válido. Detalhe técnico: {e}")
